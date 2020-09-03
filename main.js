@@ -8,9 +8,3 @@ function date(){
     document.getElementById("date").innerHTML=today
     console.log("date function loaded.")
 }
-
-function time() {
-    var d = new Date();
-    d.setTime(1332403882588);
-    document.getElementById("time").innerHTML = d;
-  }
