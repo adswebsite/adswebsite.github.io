@@ -3,3 +3,15 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+
+button {
+    background-color: whitesmoke
+    border: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(245, 173, 40);
+}
