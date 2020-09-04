@@ -10,6 +10,9 @@ button {
     margin-bottom: 5;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+button:hover {
+    background: rgb(161, 148, 148);
+}
 
 body {
     background-color: wheat;
