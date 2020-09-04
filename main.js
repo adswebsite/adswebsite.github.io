@@ -21,4 +21,5 @@ function getLocation() {
 
 function showPosition(position) {
   document.getElementById("location").innerHTML = "Latitude: " + position.coords.latitude + ", Longitude: " + position.coords.longitude;
+  console.log("showPosition function loaded");
 }
