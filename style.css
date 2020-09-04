@@ -1,21 +1,45 @@
 .title {
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
 }
 
 button {
-    background-color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0);
     border: 0;
     margin-bottom: 5;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 button:hover {
     background: rgb(226, 201, 201);
 }
 
 body {
-    background-color: wheat;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(245, 173, 40);
+    background-color: whitesmoke;
+    height: 5000px;
+}
+
+#htmlTag {
+    background: rgb(221, 220, 220);
+    width: 30%;
+}
+
+.checked {
+    color: orange;
+}
+
+.newAT {
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.languageStars {
+    font-size: 13px;
+}
+
+hr {
+    background-color: whitesmoke;
+    width: 99%;
 }
