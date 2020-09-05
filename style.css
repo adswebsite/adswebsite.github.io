@@ -43,3 +43,13 @@ hr {
     background-color: whitesmoke;
     width: 99%;
 }
+
+#row1 {
+    display: inline-flex;
+}
+
+#emojis {
+    background: rgb(221, 220, 220);
+    width: 32%;
+    margin-left: 40px;
+}
