@@ -53,3 +53,8 @@ hr {
     width: 32%;
     margin-left: 40px;
 }
+
+a {
+    text-decoration: underline;
+    color: black;
+}

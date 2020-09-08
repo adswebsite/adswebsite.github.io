@@ -1,1 +1,55 @@
 finish the second article
+
+finish contact list - under the subscription list
+
+
+
+
+||||||||||||||||||||||||||||
+                          ||
+                          ||
+< = &gt;   
+> = &lt;              ||
+&amp;#128512;             ||
+                          ||
+||||||||||||||||||||||||||||
+
+
+
+IDEAS FOR NEW UPDATES (dont do now, get approved [AS] first.)
+
+-try to find how to display code on website so on every line we can display the whole code on the category.
+-maybe add a coding news section?
+
+
+
+FOR NEW ARTICLES
+
+        <div id="[]">
+
+          <h2 class="newAT"><strong>title</strong></h2>
+    
+          <span style="font-family: 'Lobster', cursive;">languages: </span> <br>
+          <span class="fa fa-star checked"></span> <span class="languageStars">HTML5</span> <br>
+          <span class="fa fa-star checked"></span> <span class="languageStars">CSS</span> <br>
+          <span class="fa fa-star checked"></span> <span class="languageStars">JAVASCRIPT</span>
+          <span></span>
+          <br><br>
+          <hr>
+          <p style="margin: 5px;">
+            <span>description</span> <br> <br>
+            <strong style="text-decoration: underline;">CSS:</strong> <br> <br>
+            <span><strong>1. direction 1</span> </strong> <br>
+            [css code] <br> <br> <br>
+    
+            <strong style="text-decoration: underline;">JAVASCRIPT:</strong> <br> <br>
+            <span><strong>2. create the element in javascript using createElement()</strong></span>
+            document.createElement("bracelet"); <br>
+          </p>
+    
+        </div>
+
+-make the new id for the very first div
+-update the language languageStars
+-update the language titles
+-change the description
